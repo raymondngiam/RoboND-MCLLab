@@ -13,7 +13,7 @@ You will be able to observe the `MCL` (Monte Carlo Localization) in action.
 ### Dependencies
 
 - g++
-- cmake-v1.19
+- cmake-v3.19
 - python3.8-dev
 - python3-numpy
 - python3-matplotlib
